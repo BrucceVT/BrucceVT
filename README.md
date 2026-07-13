@@ -137,20 +137,25 @@ Teaching **Data Structures & Algorithms** and **Software Design & Development**,
 - **Professional Technical Degree in Software Design and Systems Integration — Tecsup, 2020**  
   <sub>Profesional Técnico en Diseño de Software e Integración de Sistemas — Tecsup, 2020.</sub>
 
-## GitHub analytics / Estadísticas
+## GitHub activity / Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BrucceVT&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=4&row=1" alt="GitHub trophies" />
+  <a href="https://github.com/BrucceVT?tab=repositories">
+    <img src="https://img.shields.io/badge/Public_repositories-View_projects-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Public repositories" />
+  </a>
+  <a href="https://github.com/BrucceVT?tab=overview&from=2026-01-01&to=2026-12-31">
+    <img src="https://img.shields.io/badge/Contribution_calendar-View_on_GitHub-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Contribution calendar" />
+  </a>
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BrucceVT&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9&icon_color=8B5CF6" alt="Brucce's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrucceVT&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9" alt="Most used languages" />
+  <a href="https://github.com/BrucceVT/VideoScribe-AI"><img src="https://img.shields.io/github/last-commit/BrucceVT/VideoScribe-AI?style=flat-square&label=VideoScribe%20AI&logo=github" alt="VideoScribe AI last commit" /></a>
+  <a href="https://github.com/BrucceVT/profile-web"><img src="https://img.shields.io/github/last-commit/BrucceVT/profile-web?style=flat-square&label=Portfolio&logo=github" alt="Portfolio last commit" /></a>
+  <a href="https://github.com/BrucceVT/tamagochi-react"><img src="https://img.shields.io/github/last-commit/BrucceVT/tamagochi-react?style=flat-square&label=Tamagochi%20React&logo=github" alt="Tamagochi React last commit" /></a>
+  <a href="https://github.com/BrucceVT/cobbleverse-server"><img src="https://img.shields.io/github/last-commit/BrucceVT/cobbleverse-server?style=flat-square&label=Cobbleverse%20Server&logo=github" alt="Cobbleverse Server last commit" /></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BrucceVT&bg_color=0D1117&color=67E8F9&line=8B5CF6&point=F8FAFC&area=true&hide_border=true" alt="Contribution activity graph" width="100%" />
-</p>
+<sub>GitHub's native contribution calendar is the authoritative source. Commits count when they use an email connected to the account and reach the repository's default branch. Private activity appears only when private contributions are enabled in profile settings.</sub>
 
 ## Contact
 
